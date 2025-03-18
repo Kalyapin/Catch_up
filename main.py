@@ -1,12 +1,12 @@
 from pygame import *
 
 window = display.set_mode((700, 500))
-display.set_caption("Догонялки")
-background = transform.scale(image.load("background.png"), (700, 500))
+display.set_caption("Catch_up")
+background = transform.scale(image.load("images/background.png"), (700, 500))
 
-sprite1 = transform.scale(image.load("sprite1.png"), (70, 70))
+sprite1 = transform.scale(image.load("images/fly1.png"), (70, 70))
 
-sprite2 = transform.scale(image.load("sprite2.png"), (70, 70))
+sprite2 = transform.scale(image.load("images/fly2.png"), (70, 70))
 
 x1 = 0
 y1 = 0
