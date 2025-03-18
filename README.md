@@ -24,7 +24,10 @@ Screenshot:
 
 ### Executing program
 
-* 
+* To run the game you need to:
+  * Download build.zip
+  * Unzip it to a convenient location
+  * Run "Catch Up.exe"
 
 
 ## Version History
