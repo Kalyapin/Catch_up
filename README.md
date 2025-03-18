@@ -5,7 +5,12 @@ Window application with a tag game
 ## Description
 
 
-Catch up - its game where you can play tag on one keyboard, with two sprites and unlimited time
+Catch up - its game where you can play with your friends with one keyboard. One character is controlled by the WASD keys, the second character is controlled by the arrows. The game takes place on a pink background, with no time limit. If someone is caught, the game will restart and will not stop until you click on the cross
+
+
+Screenshot:
+
+
 ![game_image](https://github.com/kalyapin/catch_up/blob/main/images/image_InGame.png)
 
 ## Getting Started
